@@ -3,3 +3,4 @@ confluent-kafka
 opensearch-py
 autopep8
 python-dotenv
+fastavro
